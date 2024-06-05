@@ -10,4 +10,6 @@ See two JPGs that define in folder CH30_AI_ML:
 i.e. Software development (application) Vs ML (data & processes)
 
 #### ML Tools
-Amazon SageMaker(ML cloud platform for model creation, training & deployment)
+https://aws.amazon.com/sagemaker/     ML cloud platform for model creation, training & deployment
+https://huggingface.co/               AI community for ML
+
