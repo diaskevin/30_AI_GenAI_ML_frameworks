@@ -9,7 +9,10 @@ See two JPGs that define in folder CH30_AI_ML:
 -Difference between Application Development Vs ML Development
 i.e. Software development (application) Vs ML (data & processes)
 
+Training:
+-Collect data & Prepare data
+-Model (Train, Evaluate & Deploy)
+
 #### ML Tools
 https://aws.amazon.com/sagemaker/     ML cloud platform for model creation, training & deployment
 https://huggingface.co/               AI community for ML
-
