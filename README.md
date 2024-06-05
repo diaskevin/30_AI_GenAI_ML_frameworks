@@ -15,3 +15,6 @@ Training (itterative process):
 #### ML Tools
 https://aws.amazon.com/sagemaker/     ML cloud platform for model creation, training & deployment
 https://huggingface.co/               AI community for ML
+
+#### MLOPS:
+MLOPS using Amazon SageMaker and JFrog- see JPGs (in folder CH30_AI_ML)
