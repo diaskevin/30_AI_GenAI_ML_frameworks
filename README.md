@@ -4,7 +4,7 @@
 https://watch.jfrog.com/jfrog/JFrog-Webinar-Building-for-the-Future-DevSecOps-in-the-era-of-AI-ML-Model-Development?bmid=e81f861c61d3&bmid_type=member&bmid=e81f861c61d3
 
 ### Machine Learning
-See two JPGs that define:
+See two JPGs that define in folder CH30_AI_ML:
 -ML Ecosystem
 -Difference between Application Development Vs ML Development
 i.e. Software development (application) Vs ML (data & processes)
