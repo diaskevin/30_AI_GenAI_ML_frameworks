@@ -4,14 +4,13 @@
 https://watch.jfrog.com/jfrog/JFrog-Webinar-Building-for-the-Future-DevSecOps-in-the-era-of-AI-ML-Model-Development?bmid=e81f861c61d3&bmid_type=member&bmid=e81f861c61d3
 
 ### Machine Learning
-See two JPGs that define in folder CH30_AI_ML:
--ML Ecosystem
--Difference between Application Development Vs ML Development
-i.e. Software development (application) Vs ML (data & processes)
+See two JPGs (in folder CH30_AI_ML) that define :
+  -ML Ecosystem
+  -Difference between Application Development Vs ML Development (data & processes)
 
-Training:
--Collect data & Prepare data
--Model (Train, Evaluate & Deploy)
+Training (itterative process):
+-Data (Collect & Prepare)
+-Model (Train, Evaluate(inferance) & Deploy)
 
 #### ML Tools
 https://aws.amazon.com/sagemaker/     ML cloud platform for model creation, training & deployment
