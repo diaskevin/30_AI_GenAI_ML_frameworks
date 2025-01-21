@@ -16,5 +16,14 @@ Training (itterative process):
 https://aws.amazon.com/sagemaker/     ML cloud platform for model creation, training & deployment
 https://huggingface.co/               AI community for ML
 
-#### MLOPS:
+##### MLOPS
 MLOPS using Amazon SageMaker and JFrog- see JPGs (in folder CH30_AI_ML)
+
+###### Generative AI
+Phil: Cartoon picture creation of Krystyn and Jamie
+Malc: ChatGPT to send emails to agents 
+Excel: Co-pilot to create spreadsheet
+
+####### Agumented Reality
+DJI NEO return Home
+VR Headset
