@@ -33,5 +33,13 @@ VR Headset
               Verify creation of AWS Cloud based application with configured LLM_Agents and EC2_Data
               Verify using Llama_TextGeneration_LLM
               Verify XXX_LLM to understand uploaded Federal_reports 
-      Validate  other models hosted on Huggingface' community
+      Validate other models hosted on Huggingface' community
+              Verify models names observed on the home page https://huggingface.co/models
+              Verify use of at least one model from each category on the HuggingFace home page:
+                Multimodal
+                Computer Vision
+                Natural Language Processing
+                Audio
+                Tabular
+                Other
     
