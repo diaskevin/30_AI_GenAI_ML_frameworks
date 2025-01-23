@@ -31,6 +31,8 @@ VR Headset
 ######## REVIEW: Large Language Models (LLMS)
       Validate creation of AWS application (AWS event I attended 2024: Click and drag LLMS) https://aws.amazon.com/bedrock/
               Verify creation of AWS Cloud based application with configured LLM_Agents and EC2_Data
+              Verify what LLM's are produceed by Anthropic
+              Verify use of Anthropics chatBox LLM Claude              
               Verify using Llama_TextGeneration_LLM
               Verify XXX_LLM to understand uploaded Federal_reports 
       Validate other models hosted on Huggingface' community
@@ -42,4 +44,3 @@ VR Headset
                 Audio
                 Tabular
                 Other
-    
